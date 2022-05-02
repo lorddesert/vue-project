@@ -16,12 +16,9 @@ function goToGoogle() {
   <div class=" 
     px-2
     min-h-screen text-center bg-opacity-25 
-    grid gap-4 place-content-center
-    sm:ml-4 
-    sm:w-4/6
-    md:w-3/6
-    sm:px-0
     max-w-screen-sm
+    grid gap-4 
+    place-content-center
   ">
     <hgroup class="text-slate-200 grid gap-7">
       <h1 class=" font-bold text-left text-4xl">{{ title }}</h1>
